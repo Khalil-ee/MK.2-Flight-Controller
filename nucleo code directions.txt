@@ -1,10 +1,10 @@
 cubemx
-board selector- choose board
+board selector > choose board
 start project > project manager > enter project name > set toolchain to stm32cubeide > choose directory
 pinout and configuration > select pins for your task 
 generate code
 should prompt you to allow it to open the project > open project
-drop down menu you file name > core > src > main.c > double click main
+click drop down mennu of the file name > core > src > main.c > double click main
 code 
 click hammer to check for errors
 run
