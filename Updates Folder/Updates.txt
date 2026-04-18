@@ -2,3 +2,4 @@ This file contains project updates. **work starting from 4/16/26**
 
 4/16/26 - Wired up the MPU-6050 and worked on integrating it
 4/16/26 - Completed Weekly Deliverable List 
+4/17/26 - Successfully created IMU (MPU-6050) code. Reads data and connects to nucleo board.
