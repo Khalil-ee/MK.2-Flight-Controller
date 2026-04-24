@@ -16,3 +16,4 @@ This file contains project updates.
 4/23/26 - Created code for the magnometer sensor, but the data was inaccurate. Began researching magnometer calibration/filtering to receive accurate readings for HMC-5883L
 4/24/26 - Ordered 3x E32-900T20D-V8+TX915-JKD-20 (LoRa Modules)
 4/24/26 - Verified BMP-180 code on another board and sensor
+4/24/26 - Ordered INA219 (Voltage/Current Sensors)
