@@ -9,6 +9,7 @@ This file contains project updates.
 4/20/26 - Began work on integrating BMP-180
 4/21/26 - Ordered S-Bus Signal Inverter Connection Cable
 4/23/26 - Weekly advisor meeting completed
+4/23/26 - Received a third Nucleo board 
 4/23/26 - Verified MPU-6050 code on another board and sensor
 4/23/26 - Successfully created code that communicates with BMP-180.
 4/23/26 - Ordered more HMC5883L and MPU6050 
