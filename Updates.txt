@@ -3,7 +3,7 @@ This file contains project updates.
   **Work starting from 4/16/26**
 
 4/16/26 - Wired up the MPU-6050 and worked on integrating it
-4/16/26 - Completed Weekly Deliverable List 
+4/16/26 - Completed Weekly Deliverable List (Canvas)
 4/17/26 - Weekly advisor meeting completed
 4/17/26 - Successfully created IMU (MPU-6050) code. Reads data and connects to the Nucleo board.
 4/20/26 - Began work on integrating BMP-180
@@ -17,3 +17,4 @@ This file contains project updates.
 4/24/26 - Ordered 3x E32-900T20D-V8+TX915-JKD-20 (LoRa Modules)
 4/24/26 - Verified BMP-180 code on another board and sensor
 4/24/26 - Ordered INA219 (Voltage/Current Sensors)
+4/27/26 - Completed Weekly Deliverable #1 (Canvas)
