@@ -18,3 +18,4 @@ This file contains project updates.
 4/24/26 - Verified BMP-180 code on another board and sensor
 4/24/26 - Ordered INA219 (Voltage/Current Sensors)
 4/27/26 - Completed Weekly Deliverable #1 (Canvas)
+4/27/26 - Started work on final proposal presentation
