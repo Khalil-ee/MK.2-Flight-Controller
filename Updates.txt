@@ -19,3 +19,6 @@ This file contains project updates.
 4/24/26 - Ordered INA219 (Voltage/Current Sensors)
 4/27/26 - Completed Weekly Deliverable #1 (Canvas)
 4/27/26 - Started work on final proposal presentation
+4/29/26 - Completed Proposal PP
+4/29/26 - Completed integrating INA-219 (voltage/current sensor)
+
