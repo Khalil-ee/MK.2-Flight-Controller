@@ -23,3 +23,4 @@ This file contains project updates.
 4/29/26 - Completed integrating INA-219 (voltage/current sensor)
 4/30/26 - Established Altium PCB shared project
 5/2/26  - Completed Weekly Deliverable #2 (Canvas)
+5/4/26 - Build prototype board to fuse sensors on 
