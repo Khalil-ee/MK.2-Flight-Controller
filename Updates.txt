@@ -26,3 +26,5 @@ This file contains project updates.
 5/4/26 - Build prototype board to fuse sensors on 
 5/5/26 - Sensor fusion completed and verified
 5/8/26 - Completed Weekly Deliverable #3 (Canvas)
+5/8/26 - Began schematic design (Altium)
+5/9/26 - Finished designing the power ciruit (schematic) for MCU
