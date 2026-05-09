@@ -25,3 +25,4 @@ This file contains project updates.
 5/2/26  - Completed Weekly Deliverable #2 (Canvas)
 5/4/26 - Build prototype board to fuse sensors on 
 5/5/26 - Sensor fusion completed and verified
+5/8/26 - Completed Weekly Deliverable #3 (Canvas)
