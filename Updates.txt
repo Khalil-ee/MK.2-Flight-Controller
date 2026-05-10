@@ -27,4 +27,6 @@ This file contains project updates.
 5/5/26 - Sensor fusion completed and verified
 5/8/26 - Completed Weekly Deliverable #3 (Canvas)
 5/8/26 - Began schematic design (Altium)
-5/9/26 - Finished designing the power ciruit (schematic) for MCU
+5/9/26 - Finished designing the power circuit (schematic) for the MCU in Altium
+5/9/26 - Finished MPU-6050 schematic in Altium
+
