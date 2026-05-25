@@ -30,3 +30,5 @@ This file contains project updates.
 5/9/26 - Finished designing the power circuit (schematic) for the MCU in Altium
 5/9/26 - Finished MPU-6050 schematic in Altium
 5/13/26 - Finished BMP-180 schematic in Altium
+5/25/26 - MPU schematic completed (wired up)
+
