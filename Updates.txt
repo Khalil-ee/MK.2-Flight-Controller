@@ -32,4 +32,5 @@ This file contains project updates.
 5/13/26 - Finished BMP-180 schematic in Altium
 5/25/26 - Finished MPU schematic in Altium
 5/25/26 - Finished INA-219 schematic in Altium
+6/21/26 - Received LoRa Modules
 
