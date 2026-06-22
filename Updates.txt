@@ -33,4 +33,5 @@ This file contains project updates.
 5/25/26 - Finished MPU schematic in Altium
 5/25/26 - Finished INA-219 schematic in Altium
 6/21/26 - Received LoRa Modules
+5/21/26 - Design change. Moving from an external voltage sensor to a voltage divider to the ADC pin for battery telemetry.
 
