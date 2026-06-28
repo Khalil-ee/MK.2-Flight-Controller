@@ -35,3 +35,5 @@ This file contains project updates.
 6/21/26 - Received LoRa Modules
 5/21/26 - Design change. Moving from an external voltage sensor to a voltage divider to the MCU ADC pin for battery telemetry.
 5/22/26 - Madgwick sensor fusion algorithm completed  
+5/27/26 - Version 2 development started 
+
