@@ -1,41 +1,41 @@
 This file contains project updates. 
 
-  **Work starting from 4/16/26**
+  **Work starting from 04/16/26**
 
-4/16/26 - Wired up the MPU-6050 and worked on integrating it
-4/16/26 - Completed Weekly Deliverable List (Canvas)
-4/17/26 - Weekly advisor meeting completed
-4/17/26 - Successfully created IMU (MPU-6050) code. Reads data and connects to the Nucleo board.
-4/20/26 - Began work on integrating BMP-180
-4/21/26 - Ordered S-Bus Signal Inverter Connection Cable
-4/23/26 - Weekly advisor meeting completed
-4/23/26 - Received a third Nucleo board 
-4/23/26 - Verified MPU-6050 code on another board and sensor
-4/23/26 - Successfully created code that communicates with BMP-180.
-4/23/26 - Ordered more HMC5883L and MPU6050 
-4/23/26 - Created code for the magnometer sensor, but the data was inaccurate. Began researching magnometer calibration/filtering to receive accurate readings for HMC-5883L
-4/24/26 - Ordered 3x E32-900T20D-V8+TX915-JKD-20 (LoRa Modules)
-4/24/26 - Verified BMP-180 code on another board and sensor
-4/24/26 - Ordered INA219 (Voltage/Current Sensors)
-4/27/26 - Completed Weekly Deliverable #1 (Canvas)
-4/27/26 - Started work on final proposal presentation
-4/29/26 - Completed Proposal PP
-4/29/26 - Completed integrating INA-219 (voltage/current sensor)
-4/30/26 - Established Altium PCB shared project
-5/2/26  - Completed Weekly Deliverable #2 (Canvas)
-5/4/26 - Build prototype board to fuse sensors on 
-5/5/26 - Sensor fusion completed and verified
-5/8/26 - Completed Weekly Deliverable #3 (Canvas)
-5/8/26 - Began schematic design (Altium)
-5/9/26 - Finished designing the power circuit (schematic) for the MCU in Altium
-5/9/26 - Finished MPU-6050 schematic in Altium
-5/13/26 - Finished BMP-180 schematic in Altium
-5/25/26 - Finished MPU schematic in Altium
-5/25/26 - Finished INA-219 schematic in Altium
-6/21/26 - Received LoRa Modules
-5/21/26 - Design change. Moving from an external voltage sensor to a voltage divider to the MCU ADC pin for battery telemetry.
-5/22/26 - Madgwick sensor fusion algorithm completed  
-5/27/26 - Version 2 development started 
-5/28/26 - MCU Wired up
-5/28/26 - Battery input + reverse-polarity protection + buck regulator circuit complete (12.6V -> 5V)
-
+04/16/26 - Wired up the MPU-6050 and worked on integrating it
+04/16/26 - Completed Weekly Deliverable List (Canvas)
+04/17/26 - Weekly advisor meeting completed
+04/17/26 - Successfully created IMU (MPU-6050) code. Reads data and connects to the Nucleo board.
+04/20/26 - Began work on integrating BMP-180
+04/21/26 - Ordered S-Bus Signal Inverter Connection Cable
+04/23/26 - Weekly advisor meeting completed
+04/23/26 - Received a third Nucleo board 
+04/23/26 - Verified MPU-6050 code on another board and sensor
+04/23/26 - Successfully created code that communicates with BMP-180.
+04/23/26 - Ordered more HMC5883L and MPU6050 
+04/23/26 - Created code for the magnetometer sensor, but the data was inaccurate. Began researching magnetometer calibration/filtering to receive accurate readings for HMC-5883L
+04/24/26 - Ordered 3x E32-900T20D-V8+TX915-JKD-20 (LoRa Modules)
+04/24/26 - Verified BMP-180 code on another board and sensor
+04/24/26 - Ordered INA219 (Voltage/Current Sensors)
+04/27/26 - Completed Weekly Deliverable #1 (Canvas)
+04/27/26 - Started work on final proposal presentation
+04/29/26 - Completed Proposal PP
+04/29/26 - Completed integrating INA-219 (voltage/current sensor)
+04/30/26 - Established Altium PCB shared project
+05/02/26 - Completed Weekly Deliverable #2 (Canvas)
+05/04/26 - Built prototype board to fuse sensors on 
+05/05/26 - Sensor fusion completed and verified
+05/08/26 - Completed Weekly Deliverable #3 (Canvas)
+05/08/26 - Began schematic design (Altium)
+05/09/26 - Finished designing the power circuit (schematic) for the MCU in Altium
+05/09/26 - Finished MPU-6050 schematic in Altium
+05/13/26 - Finished BMP-180 schematic in Altium
+05/25/26 - Finished MPU schematic in Altium
+05/25/26 - Finished INA-219 schematic in Altium
+06/21/26 - Received LoRa Modules
+05/21/26 - Design change. Moving from an external voltage sensor to a voltage divider to the MCU ADC pin for battery telemetry.
+05/22/26 - Madgwick sensor fusion algorithm completed  
+05/27/26 - Version 2 development started 
+05/28/26 - MCU Wired up
+05/28/26 - Battery input + reverse-polarity protection + buck regulator circuit complete (12.6V -> 5V)
+07/01/26 - Found mistakes in design; back to datasheets to verify/improve design and viability 
