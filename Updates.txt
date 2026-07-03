@@ -40,4 +40,10 @@ This file contains project updates.
 05/28/26 - Battery input + reverse-polarity protection + buck regulator circuit complete (12.6V -> 5V)
 07/01/26 - Found mistakes in design; back to datasheets to verify/improve design and viability 
 07/02/26 - Redesigned the input/power circuit. Had a missing bypass capacitor and updated some of the component values.
-
+07/03/26 - Completed design for in Altium.
+       * 3.3V LDO & SUPPORT 
+       * Main MCU Core, 
+       * Power Input & 5V Buck converter
+       * I2C SENSORS & POWER MONITOR
+       * RC, TELEMETRY.
+07/03/26 - RC, TELEMETRY, GPS & PERIPHERALS circuit half completed still WIP.
