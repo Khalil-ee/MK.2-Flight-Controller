@@ -11,7 +11,7 @@ This file contains project updates.
 04/23/26 - Weekly advisor meeting completed
 04/23/26 - Received a third Nucleo board 
 04/23/26 - Verified MPU-6050 code on another board and sensor
-04/23/26 - Successfully created code that communicates with BMP-180.
+04/23/26 - Successfully created code that communicates with BMP-180
 04/23/26 - Ordered more HMC5883L and MPU6050 
 04/23/26 - Created code for the magnetometer sensor, but the data was inaccurate. Began researching magnetometer calibration/filtering to receive accurate readings for HMC-5883L
 04/24/26 - Ordered 3x E32-900T20D-V8+TX915-JKD-20 (LoRa Modules)
@@ -33,17 +33,20 @@ This file contains project updates.
 05/25/26 - Finished MPU schematic in Altium
 05/25/26 - Finished INA-219 schematic in Altium
 06/21/26 - Received LoRa Modules
-05/21/26 - Design change. Moving from an external voltage sensor to a voltage divider to the MCU ADC pin for battery telemetry.
+05/21/26 - Design change. Moving from an external voltage sensor to a voltage divider to the MCU ADC pin for battery telemetry
 05/22/26 - Madgwick sensor fusion algorithm completed  
 05/27/26 - Version 2 development started 
 05/28/26 - MCU Wired up
 05/28/26 - Battery input + reverse-polarity protection + buck regulator circuit complete (12.6V -> 5V)
 07/01/26 - Found mistakes in design; back to datasheets to verify/improve design and viability 
-07/02/26 - Redesigned the input/power circuit. Had a missing bypass capacitor and updated some of the component values.
+07/02/26 - Redesigned the input/power circuit. Had a missing bypass capacitor and updated some of the component values
 07/03/26 - Completed design for in Altium.
        * 3.3V LDO & SUPPORT 
        * Main MCU Core, 
        * Power Input & 5V Buck converter
        * I2C SENSORS & POWER MONITOR
        * RC, TELEMETRY.
-07/03/26 - RC, TELEMETRY, GPS & PERIPHERALS circuit half completed still WIP.
+07/03/26 - RC, TELEMETRY, GPS & PERIPHERALS circuit half completed still WIP
+07/17/26 - BMP-280 received to upgrade from BMP-180
+07/17/26 - BMP-280 integration to prototype board commenced 
+
