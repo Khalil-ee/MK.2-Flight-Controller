@@ -47,6 +47,6 @@ This file contains project updates.
        * I2C SENSORS & POWER MONITOR
        * RC, TELEMETRY.
 07/03/26 - RC, TELEMETRY, GPS & PERIPHERALS circuit half completed still WIP
-07/17/26 - BMP-280 received to upgrade from BMP-180
+07/17/26 - BMP-280 received to upgrade from BMP-180 (lower noise, on-chip IIR filtering)
 07/17/26 - BMP-280 integration to prototype board commenced 
 
