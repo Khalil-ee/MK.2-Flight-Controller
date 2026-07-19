@@ -51,5 +51,6 @@ This file contains project updates.
        (lower noise, on-chip IIR filtering)
 07/17/26 - BMP-280 integration to prototype board commenced 
 07/17/26 - BMP-280 integrated into Altium schematic, replacing BMP-180
+07/19/26 - Connectors added for RX, GPS, LoRa socket, 4x ESC.
 
 
