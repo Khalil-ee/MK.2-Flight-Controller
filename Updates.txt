@@ -40,7 +40,7 @@ This file contains project updates.
 05/28/26 - Battery input + reverse-polarity protection + buck regulator circuit complete (12.6V -> 5V)
 07/01/26 - Found mistakes in design; back to datasheets to verify/improve design and viability 
 07/02/26 - Redesigned the input/power circuit. Had a missing bypass capacitor and updated some of the component values
-07/03/26 - Completed design for in Altium.
+07/03/26 - Completed design in Altium.
        * 3.3V LDO & SUPPORT 
        * Main MCU Core, 
        * Power Input & 5V Buck converter
@@ -52,5 +52,5 @@ This file contains project updates.
 07/17/26 - BMP-280 integration to prototype board commenced 
 07/17/26 - BMP-280 integrated into Altium schematic, replacing BMP-180
 07/19/26 - Connectors added for RX, GPS, LoRa socket, 4x ESC.
-
+07/30/25 - BMP-280 Integrated into prototype breadboard and receiving data 
 
