@@ -54,4 +54,4 @@ This file contains project updates.
 07/19/26 - Connectors added for RX, GPS, LoRa socket, 4x ESC.
 07/30/26 - BMP-280 Integrated into prototype breadboard and receiving data 
 07/31/26 - LoRa modules communicated successfully using Chirp Spread Spectrum (CSS) (using CSS for jamming mitigation)
-
+08/22/26 - Reworked USB-C and Power supply circuit 
