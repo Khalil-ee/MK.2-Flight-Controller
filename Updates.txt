@@ -56,3 +56,4 @@ This file contains project updates.
 07/31/26 - LoRa modules communicated successfully using Chirp Spread Spectrum (CSS) (using CSS for jamming mitigation)
 08/22/26 - Reworked USB-C and Power supply circuit 
 08/26/26 - Back to School
+09/01/26 - Updated README to reflect current updates to project
