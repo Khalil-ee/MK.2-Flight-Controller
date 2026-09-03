@@ -42,7 +42,7 @@ This file contains project updates.
 07/02/26 - Redesigned the input/power circuit. Had a missing bypass capacitor and updated some of the component values
 07/03/26 - Completed design in Altium.
        * 3.3V LDO & SUPPORT 
-       * Main MCU Core, 
+       * Main MCU Core 
        * Power Input & 5V Buck converter
        * I2C SENSORS & POWER MONITOR
        * RC, TELEMETRY.
@@ -56,4 +56,5 @@ This file contains project updates.
 07/31/26 - LoRa modules communicated successfully using Chirp Spread Spectrum (CSS) (using CSS for jamming mitigation)
 08/22/26 - Reworked USB-C and Power supply circuit 
 08/26/26 - Back to School
-09/01/26 - Updated README to reflect current updates to project
+09/01/26 - Updated README to reflect current updates to the project
+09/03/26 - Finishing up revision 3. Still need external connections wired up. (Headers, USB-C, and such)
