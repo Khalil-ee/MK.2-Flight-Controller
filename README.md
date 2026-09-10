@@ -5,8 +5,6 @@
 Senior Design Project · Morgan State University, Department of Electrical & Computer Engineering · Fall 2026
 
 **Overview**
-
-
 Most hobby-grade flight controllers rely on a nearby phone or a short-range Wi-Fi/Bluetooth link, limiting them to line-of-sight operation in uncongested spectrum. This board takes a different approach: a single STM32F446RET6 handles sensor acquisition, attitude estimation, and stabilization on-chip, while a directly integrated 915 MHz transceiver maintains an independent command and telemetry link.
 
 The design goal is reliable operation where conventional consumer links degrade — at range, through obstructions, and in congested RF environments.
