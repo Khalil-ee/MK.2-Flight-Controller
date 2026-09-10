@@ -1,1 +1,13 @@
-This project presents the design and implementation of a custom drone flight controller built around an STM32F446RET6 microcontroller directly integrated with an onboard long-range wireless transceiver. Unlike conventional consumer systems that rely on short-range Wi-Fi, Bluetooth, or smartphone applications for control, this board serves as an entirely standalone embedded architecture engineered for reliable operation in congested and access-denied environments.  The board consolidates all flight tasks into a single microcontroller rather than relying on a separate dual-processor layout. The core chip directly handles multi-sensor data acquisition over a shared I2C bus across an inertial measurement unit, magnetometer, barometer, and power monitor while executing attitude estimation and active stabilization control loops. Simultaneously, the microcontroller communicates directly with the integrated wireless module to maintain an uninterrupted telemetry stream and command link.  What distinguishes this flight controller is its utilization of Chirp Spread Spectrum modulation via the onboard transceiver interface. By encoding data into continuous frequency-sweeping chirps over time, the system achieves exceptional resistance to multipath interference, physical obstructions, and signal jamming. This modulation scheme allows the flight controller to decode signals and transmit critical telemetry even when operating down to a signal-to-noise ratio of -20 dB, maintaining reliable communication deep below the ambient noise floor where traditional drone links fail.
+**KKM Flight Controller
+**
+**A standalone STM32-based quadrotor flight controller with integrated long-range LoRa telemetry.**
+
+Senior Design Project · Morgan State University, Department of Electrical & Computer Engineering · Fall 2026
+
+**Overview
+**
+Most hobby-grade flight controllers depend on a nearby phone or a short-range Wi-Fi/Bluetooth link, which limits them to line-of-sight operation in uncongested spectrum. This board takes a different approach: a single STM32F446RET6 handles sensor acquisition, attitude estimation, and stabilization on-chip, while a directly integrated 915 MHz transceiver maintains an independent command and telemetry link.
+
+The design goal is reliable operation where conventional consumer links degrade — at range, through obstructions, and in congested RF environments.
+
+**Why LoRa instead of Wi-Fi:** The transceiver uses Chirp Spread Spectrum, encoding data as continuous frequency sweeps rather than discrete symbols. This spreads energy across the channel, giving strong resistance to multipath and narrowband interference and allowing demodulation at negative signal-to-noise ratios — the SX1278 is specified down to roughly −20 dB SNR at the highest spreading factors. The tradeoff is bandwidth: the link carries telemetry and commands, not video.
