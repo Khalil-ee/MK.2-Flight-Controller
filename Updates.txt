@@ -58,4 +58,5 @@ This file contains project updates.
 08/26/26 - Back to School
 09/01/26 - Updated README to reflect current updates to the project
 09/03/26 - Finishing up revision 3. Still need external connections wired up. (Headers, USB-C, and such)
-09/04/26 - Had Zoom meeting to establish project next steps
+09/04/26 - Had a Zoom meeting to establish project next steps
+09/10/26 - First in-person meeting with advisor 
