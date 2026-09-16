@@ -62,5 +62,5 @@ This file contains project updates.
 09/10/26 - First in-person meeting for fall semester with advisor 
 09/10/26 - Uploaded v1 & v2 circuit schematics + Altium 
 09/10/26 - Project brief & status report started
-09/10/26 - Circuit v3 completed and working on verification 
+09/10/26 - Circuit v3 completed and working on validation 
 09/14/26 - Project brief PowerPoint finished
