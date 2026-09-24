@@ -66,4 +66,5 @@ This file contains project updates.
 09/14/26 - Project brief PowerPoint finished
 09/17/26 - ERC passed 
 09/18/26 - Began EasyEDA project import to be sent off to manufacturing (JLCPCB)09/18/26 - 
-Finsished EasyEDA parts sourcing for STM and battery input schdoc
+           Finished EasyEDA parts sourcing for STM and battery input schdoc
+09/24/26 - Updated schematic v3.1 cleaned up and psssing ERC
