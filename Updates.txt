@@ -70,3 +70,4 @@ This file contains project updates.
 09/24/26 - Updated schematic v3.1, cleaned up, and passed ERC
 09/29/26 - Gantt chart updated and uploaded 
 10/10/26 - Schematic sent to PCBway (EST 10/21/26)
+10/13/26 - Began working on midterm aka Brief & Demo Presentation 
