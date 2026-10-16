@@ -69,5 +69,7 @@ This file contains project updates.
            Finished EasyEDA parts sourcing for STM and battery input schdoc
 09/24/26 - Updated schematic v3.1, cleaned up, and passed ERC
 09/29/26 - Gantt chart updated and uploaded 
+10/08/26 - Completed Draft Project Brief/Report 2 on Canvas
 10/10/26 - Schematic sent to PCBway (EST 10/21/26)
 10/13/26 - Began working on midterm aka Brief & Demo Presentation 
+10/15/26 - Finished and submitted midterm Project Report and Design Checklist 
