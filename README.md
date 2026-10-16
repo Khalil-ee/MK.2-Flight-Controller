@@ -1,4 +1,4 @@
-**KKM Flight Controller**
+**MK^2 Flight Controller**
 
 **A standalone STM32-based quadrotor flight controller with integrated long-range LoRa telemetry.**
 
