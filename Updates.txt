@@ -77,3 +77,19 @@ This file contains project updates.
 10/20/26 - Board sent to manufacturing 
 10/27/26 - Final presentation PowerPoint started
 10/27/26 - Edits to midterm project report started for final report submission
+10/29/26 - Breadboard motion test #1 logged (rest -> hand motion -> rest). Roll noise at rest 0.08 deg, roll back within 0.13 deg, yaw drift ~7 deg/min (no valid magnetometer)
+10/30/26 - Breadboard test #2: four hand-marked 90 deg turns totaled 366 deg (rough check). Compass and barometer read zeros on old firmware; re-test pending
+10/30/26 - Final report draft completed in IEEE format (64 pages)
+11/02/26 - Outside review of the report completed; list of fixes created
+11/03/26 - Design review found the 0.1 ohm shunt resistor (R_SHUNT) missing from the PCB layout. Revision requested from PCBWay
+11/03/26 - SBUS / PID / motor mixer bench firmware written for the Nucleo
+11/05/26 - PCB order placed and paid at PCBWay (1 assembled board; $174.02 before shipping; 15-18 day lead time)
+11/09/26 - Final presentation rebuilt in the Morgan State ECE template
+11/10/26 - Flashed bench firmware. SBUS receiver input working (R8FM -> 74LS04 inverter -> PA10). Arm switch set to CH7
+11/10/26 - MPU-6050 stopped answering on I2C on breadboard #2. Added I2C bus recovery and IMU-fail disarm to firmware
+11/10/26 - PID viewer updated (motor display, IMU status, simulated motion mode)
+11/11/26 - MPU-6050 working again on the breadboard. 3D drone view added to the viewer
+11/11/26 - Final presentation slides revised; animation clips created for the deck
+11/12/26 - ESCs wired to the Nucleo (PC6-PC9). Controller arms and spins all four motors from the transmitter on the bench
+11/12/26 - Bench demo video recorded and edited (viewer + drone side by side)
+11/12/26 - Presentation dry run prepared
